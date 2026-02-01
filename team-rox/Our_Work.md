@@ -1,6 +1,6 @@
 # Analysis and Simulation of Quantum Error Correction Codes using Stim and Sinter
 
-**Principal Investigator:** Ritesh Roshan Sahoo  
+**Principal Investigators:** Team Rox (Ritesh Roshan Sahoo et al.)  
 **Date:** February 2026
 
 ## Abstract
